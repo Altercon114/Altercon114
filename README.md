@@ -17,6 +17,10 @@ I'm a passionate Data Scientist and a dedicated Master's student, constantly bui
 - :nerd_face: Always `learning new things`.
 <br>
 
+## Data Science Portfolio
+
+:briefcase: https://github.com/Altercon114/My-Portfolio
+
 ## My Skills Include
 
 #### 📋 Languages
