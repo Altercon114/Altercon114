@@ -17,11 +17,11 @@ I'm a passionate Data Scientist and a dedicated Master's student, constantly bui
 - :nerd_face: Always `learning new things`.
 <br>
 
+## My Skills Include
+
 #### 📋 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
-
 
 #### 📚 Libraries
 ![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
